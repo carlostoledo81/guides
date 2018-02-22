@@ -48,7 +48,7 @@ Documento | Descrição
 [10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
 [11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
 
-> 1.Compartilhe todos os formulários com os interessados, eles estão salvos como **modelo** nos Forms do Google da **brainn**. 
+> 1. Compartilhe todos os formulários com os interessados, eles estão salvos como **modelo** nos Forms do Google da **brainn**. 
 
 > 2. Verifique as permissões de acesso.
 
