@@ -48,7 +48,11 @@ Documento | Descrição
 [10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
 [11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
 
-Compartilhe todos os formulários com os interessados, verifique as permissões de acesso e aguarde a finalização das respostas.
+> 1.Compartilhe todos os formulários com os interessados, eles estão salvos como **modelo** nos Forms do Google da **brainn**. 
+
+> 2. Verifique as permissões de acesso.
+
+> 3. Aguarde a finalização das respostas.
 
 
 
@@ -99,3 +103,5 @@ Após construídos, **expressão visual** e **design kit** deve ser adicionados 
 ## Handoff do material desenvolvido
 
 Todos os arquivos fonte, imagens, ícones, versões de logotipo, fontes e apresentações devem ser reunidos em uma pasta e enviada ao cliente dando como finalizado o **Brand Discovery**.
+
+> Saiba como [contribuir](https://github.com/brainn-co/guides/blob/master/CONTRIB.md)
